@@ -72,7 +72,7 @@ else
         use                             generic-contact         ; Inherit default values from generic-contact template (defined above)
         alias                           Nagios Admin            ; Full name of user
 
-        email                           nagios@localhost        ; <<***** CHANGE THIS TO YOUR EMAIL ADDRESS ******
+        email                           sarath.potru@dropitapp.com        ; <<***** CHANGE THIS TO YOUR EMAIL ADDRESS ******
         }' >>/usr/local/nagios/etc/objects/contacts.cfg
 
 fi
